@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 2em;
+    text-align: center;
+    margin: 100 px auto 100px;
+    background-color: #FFEDDB;
+}
+
+
+
+h1 {
+    margin-top: 0;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+.span {
+  font-style: underline black;
+}
+
+
+
+hr {
+  border: dotted #EAF6F6 6px;
+}
+
+.contact-me {
+  margin: 40px auto 60px;
+  width: 40%;
+}
+
+table {
+  margin: 50px auto 50px;
+}
+
+.bottom-container {
+  background-color: #EDCDBB;
+  padding: 50px 0 20px;
+}
+
+.middle-container {
+  margin: 0;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+li {
+  line-height: 150%;
+}
