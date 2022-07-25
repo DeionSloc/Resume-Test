@@ -13,7 +13,8 @@ h1 {
 }
 
 .circular {
-    border-radius: 100%;
+    border-radius: 75%;
+    width: 10%;
 }
 
 .span {
